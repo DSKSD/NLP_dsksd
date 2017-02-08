@@ -1,0 +1,18 @@
+SYS:[Salutation(greeting)]"안녕 하 세요 !"
+USR:null
+SYS:[Request(hmihy)]"무엇 을 도와드릴까요 ?"
+USR:"1만원대 튤립 으로 바구니포장 하 고 싶 어요"
+SYS:[Apology(pack)]"수령 방법 을 알려 주 세요 !"
+USR:"퀵 이 요"
+SYS:[ExpConfirm(price=$price,pack=$pack)]"1만원대 의 꽃을 바구니포장 맞 나요?"
+USR:"네 맞 아요"
+SYS:[ExpConfirm(flower=$flower)]"장미 맞 나요?"
+USR:"네"
+SYS:[Retrieve(info)]"잠시 만 요 , 찾 아 볼게요 !"
+USR:null
+SYS:[Provide(known)]"찾 으시 는 상품 은 여기 있 습니다 !"
+USR:null
+SYS:[AskFor(more)]"다른 요구사항 은 더 없 으세요 ?"
+USR:"없 어요"
+SYS:[Salutation(closing)]"또 이용 해 주 세요"
+USR:null
