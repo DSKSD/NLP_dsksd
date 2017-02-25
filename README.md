@@ -3,8 +3,13 @@
 
 ## NLP Fundamental
 
-http://www.nltk.org/book/ # Python NLTK
+#### Python NLTK
 
+http://www.nltk.org/book/ 
+
+#### 자연어처리를 위한 기계학습
+
+http://www.slideshare.net/deview/f2-14341235
 
 ## Lecture
 
@@ -20,41 +25,80 @@ http://cs224d.stanford.edu/syllabus.html
 
 https://github.com/oxford-cs-deepnlp-2017/lectures
 
+
 ## NER
 
 #### Tutorial of Korean NER
 
-`http://semanticweb.kaist.ac.kr/home/images/d/d7/Student_Seminar_20110210_@Kyoungryol_Kim.pdf`
+http://semanticweb.kaist.ac.kr/home/images/d/d7/Student_Seminar_20110210_@Kyoungryol_Kim.pdf
+
+#### Modeling and Predicting Sequences: HMM, CRF
+
+http://www.cs.cmu.edu/~epxing/Class/10701-10s/recitation/recitation6.pdf
+
+#### NER with SVM
+
+https://www.cs.bgu.ac.il/~elhadad/nlp11/hw3.html#svm
+
+#### CRFsuite tutorial
+
+https://github.com/scrapinghub/python-crfsuite/blob/master/examples/CoNLL%202002.ipynb
+
+#### CRFsuite 한국어 띄어쓰기
+
+http://blog.theeluwin.kr/post/147587579528/python-crfsuite%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%9E%90%EB%8F%99-%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0%EB%A5%BC-%ED%95%99%EC%8A%B5%ED%95%B4%EB%B3%B4%EC%9E%90
+
+#### cs-224d Simple NN for NER (Assignment2)
+
+http://cs224d.stanford.edu/assignment2/index.html
 
 
+## Chatbot
 
-## Blog
+#### Chatbot Fundamentals: Python Tutorial
+
+https://apps.worldwritable.com/tutorials/chatbot/
+
+#### Deep Learning for Chatbot
+
+http://mlduck.tistory.com/6
+
+#### Chatbots with Seq2Seq
+
+http://suriyadeepan.github.io/2016-06-28-easy-seq2seq/
+
+## RNN
 
 #### RNN Tutorial(Python Numpy, Theano)[WILDML][AI Korea]
 
-`http://aikorea.org/blog/rnn-tutorial-1/`
+http://aikorea.org/blog/rnn-tutorial-1/
 
 #### Understanding LSTM
 
-`https://colah.github.io/posts/2015-08-Understanding-LSTMs/`
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 #### RNN in tensorflow 1
 
-`https://danijar.com/introduction-to-recurrent-networks-in-tensorflow/`
+https://danijar.com/introduction-to-recurrent-networks-in-tensorflow/
 
 #### RNN in tensorflow 2
 
-`http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/`
+http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/
 
 #### RNN in tensorflow 3 [Medium]
 
-`https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767#.ug2xa0dyp`
+https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767#.ug2xa0dyp
 
 #### RNN in tensorflow, Practical guide
 
-`https://tgjeon.github.io/post/rnns-in-tensorflow/`
+https://tgjeon.github.io/post/rnns-in-tensorflow/
 
 #### RNN in tensorflow, sequence modeling
 
-`https://www.slideshare.net/taeyounglee1447/2017-tensor-flow-dev-summit?from_m_app=android`
+https://www.slideshare.net/taeyounglee1447/2017-tensor-flow-dev-summit?from_m_app=android
 
+#### Practical Seq2Seq
+
+http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/
+
+## Open Source
